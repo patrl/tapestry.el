@@ -1,4 +1,4 @@
-#+TITLE: ~tapestry.el~~
+#+TITLE: ~tapestry.el~
 
 An emacs client for Scuttlebutt.
 
